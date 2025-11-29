@@ -1,0 +1,21 @@
+﻿指標,値
+サンプルサイズ,47
+過分散パラメータ φ,1.550
+ポアソン回帰 AIC,341.609
+ポアソン回帰 対数尤度,-167.805
+負の二項 (sm.NB) AIC,469.356
+負の二項 (sm.NB) 収束,No
+負の二項 (GLM+α最適化) AIC,337.649
+負の二項 最適alpha,0.0110
+尤度比検定 統計量,3.960
+尤度比検定 p値,0.023290
+推奨モデル,負の二項 (GLM+α最適化)
+elderly_rate 係数,3.092909
+elderly_rate 標準誤差,1.063164
+car_per_1000 係数,0.001125
+car_per_1000 標準誤差,0.000213
+VIF (elderly_rate),48.819
+VIF (car_per_1000),48.819
+相関: deaths_per_100k vs elderly_rate,0.651
+相関: deaths_per_100k vs car_per_1000,0.691
+相関: elderly_rate vs car_per_1000,0.629
