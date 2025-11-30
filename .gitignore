@@ -35,6 +35,9 @@ desktop.ini
 *.log
 *.bak
 
+# Node.js
+node_modules/
+
 # データファイル（必要に応じてコメントアウト）
 # *.csv
 # *.xlsx
